@@ -14,6 +14,7 @@ nav {
 }
 #frame {
   flex:1;
+  margin:1em;
 }
 #pageNumberInput {
   font-family:"Helvetica Neue","Helvetica","Century Gothic",serif,sans-serif;
